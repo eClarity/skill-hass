@@ -1,0 +1,7 @@
+{
+  "utterance": "home assistant status",
+  "intent_type": "HassServicesIntent",
+  "intent": {
+    "HassServices": "home assistant status"
+  }
+}

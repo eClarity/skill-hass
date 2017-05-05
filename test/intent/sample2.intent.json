@@ -1,0 +1,7 @@
+{
+  "utterance": "home assistant configuration",
+  "intent_type": "HassConfigIntent",
+  "intent": {
+    "HassConfig": "home assistant configuration"
+  }
+}
