@@ -1,6 +1,7 @@
-# Hello World Skill
+Home Assistant Skill For Mycroft AI
 
-## Usage:
-* `hello world`
-* `how are you`
-* `thank you`
+Usage:
+home assistant status
+house status
+home assistant configuration
+house configuration
